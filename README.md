@@ -1,7 +1,6 @@
 # Text-Adventure-Game (COCO MOVIE)
 
 Text Adventure Game Development
-The game is based on the Disney-Pixar movie COCO
 
 In this assignment, students are tasked with designing a text-based adventure gameLinks to an external site.. This game should utilize the Python essentials covered thus far, including, but not limited to:
 
