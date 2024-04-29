@@ -32,7 +32,7 @@ Document:
 
 <a href="Coco_game_Bruno.html">View project in HTML</a>
 
-<a href="Coco_game_Bruno (1).ipynb">Download Jupyter Notebook script</a>
+<a href="Coco_game_Bruno (1).ipynb">Download Jupyter Notebook Script</a>
 
  
  
